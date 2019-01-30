@@ -32,7 +32,8 @@ public class SayHello
         // (1) Add your own output below these comments that includes your name.
         // (2) Place "counter++;" command after your contribution, to keep count.
         // (3) Keep the existing println statement at the very end.
-
+        System.out.println( "Hello everyone!  My name is Agnes Benitez." );
+        counter++;
 
         System.out.println( "Number of students who edited this file: "
             + counter );
